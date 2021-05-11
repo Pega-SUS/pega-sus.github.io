@@ -4,11 +4,13 @@
                         http://www.apache.org/licenses/
 ```
 
+<p style="font-size:20">
 <hr>
-<b>Links:</b>
+<b>Links:</b><br>
 http://www.apache.org/licenses/ <br>
 http://www.apache.org/licenses/LICENSE-2.0
 <hr>
+</p>
 
 # `TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION`
 
