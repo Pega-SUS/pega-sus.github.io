@@ -5,7 +5,7 @@
 ```
 
 <hr>
-**Links:**
+<b>Links:</b>
 http://www.apache.org/licenses/ <br>
 http://www.apache.org/licenses/LICENSE-2.0
 <hr>
