@@ -5,10 +5,10 @@
 ```
 
 **Links:**
----
-http://www.apache.org/licenses/
+<hr>
+http://www.apache.org/licenses/ <br>
 http://www.apache.org/licenses/LICENSE-2.0
----
+<hr>
 
 # `TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION`
 
