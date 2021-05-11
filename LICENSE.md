@@ -4,7 +4,7 @@
                         http://www.apache.org/licenses/
 ```
 
-<p style="font-size:20">
+<p style="font-size:10">
 <hr>
 <b>Links:</b><br>
 http://www.apache.org/licenses/ <br>
